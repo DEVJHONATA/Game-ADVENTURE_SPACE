@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="562d555d-b35c-4cad-8cb9-cc698f94ef4d" name="Changes" comment="Creating asset folder &#10;Inserting all assets&#10;Creating the menu: backgrund, sound and fonts&#10;Creating the const file">
-      <change afterPath="$PROJECT_DIR$/asset/Player.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/multiplayer_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/MENU.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/background.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/background.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/const.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/enemy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/entityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entityFactory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/level.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/player.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="562d555d-b35c-4cad-8cb9-cc698f94ef4d" name="Changes" comment="Creating moster the hero &#10;Inserting all assets&#10;Creating the menu: backgrund, sound and fonts&#10;Creating the const file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +141,7 @@
       <workItem from="1751495480587" duration="9000" />
       <workItem from="1751495550762" duration="11360000" />
       <workItem from="1751667805190" duration="26829000" />
-      <workItem from="1751747548839" duration="19250000" />
+      <workItem from="1751747548839" duration="19567000" />
     </task>
     <task id="LOCAL-00001" summary="add classes generated from starUMl">
       <option name="closed" value="true" />
@@ -186,7 +167,31 @@
       <option name="project" value="LOCAL" />
       <updated>1750119671514</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Creating moster the hero &#10;Inserting all assets&#10;Creating the menu: backgrund, sound and fonts&#10;Creating the const file">
+      <option name="closed" value="true" />
+      <created>1751780203084</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751780203084</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Creating moster the hero &#10;Inserting all assets&#10;Creating the menu: backgrund, sound and fonts&#10;Creating the const file">
+      <option name="closed" value="true" />
+      <created>1751780263163</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751780263163</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Creating moster the hero &#10;Inserting all assets&#10;Creating the menu: backgrund, sound and fonts&#10;Creating the const file">
+      <option name="closed" value="true" />
+      <created>1751780296531</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751780296531</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +212,8 @@
     <MESSAGE value="add classes generated from starUMl" />
     <MESSAGE value="Creating main loop&#10;Connecting Menu and Game classes" />
     <MESSAGE value="Creating asset folder &#10;Inserting all assets&#10;Creating the menu: backgrund, sound and fonts&#10;Creating the const file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating asset folder &#10;Inserting all assets&#10;Creating the menu: backgrund, sound and fonts&#10;Creating the const file" />
+    <MESSAGE value="Creating moster the hero &#10;Inserting all assets&#10;Creating the menu: backgrund, sound and fonts&#10;Creating the const file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating moster the hero &#10;Inserting all assets&#10;Creating the menu: backgrund, sound and fonts&#10;Creating the const file" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/main_py$game.coverage" NAME="game Coverage Results" MODIFIED="1751731381600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
